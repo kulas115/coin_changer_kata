@@ -1,1 +1,1 @@
-# Roman Numerals Ruby Kata [codealong with Jim Weirich.](https://youtu.be/ronr_CG8x0Y)
+# [Coin change kata](https://web.archive.org/web/20130216063932/http://craftsmanship.sv.cmu.edu/exercises/coin-change-kata) in Ruby
